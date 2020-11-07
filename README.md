@@ -1,5 +1,5 @@
 # R_Projects
-A collection of R projects on data science using machine learning and deep learning
+A collection of R projects on data science using machine learning and deep learning (codes only)
 
 <img src="https://www.r-project.org/Rlogo.png">
 
