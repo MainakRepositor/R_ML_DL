@@ -18,7 +18,7 @@ CONTENTS
   <li><a href="https://github.com/MainakRepositor/R_Projects/blob/master/decision_tree_classification.R">Decision Tree Classifier</a></li>
   <li><a href="https://github.com/MainakRepositor/R_Projects/blob/master/random_forest_classification.R">Random Forest Classifier</a></li>
   <li><a href="https://github.com/MainakRepositor/R_Projects/blob/master/svm.R">Support Vector Machine</a></li>
-  <li><a href="https://github.com/MainakRepositor/R_Projects/blob/master/kernel_svm.R"></a>Kernel SVM</li>
+  <li><a href="https://github.com/MainakRepositor/R_Projects/blob/master/kernel_svm.R">Kernel SVM</a></li>
   <li><a href="https://github.com/MainakRepositor/R_Projects/blob/master/naive_bayes.R">Naive Bayes Classifier</a></li>
   <li><a href="https://github.com/MainakRepositor/R_Projects/blob/master/knn.R">K Nearest Neighbour</a></li>
   <li><a href="https://github.com/MainakRepositor/R_Projects/blob/master/k_means_clustering.R">K Mean Clustering</a></li>
